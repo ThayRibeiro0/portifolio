@@ -28,6 +28,12 @@
     display: flex;
 }
 
+.boxao {
+    display: block;
+    width: 70%;
+    margin: auto;
+}
+
 .progressbar {
     margin-top: 50px;
     margin-left: 35%;

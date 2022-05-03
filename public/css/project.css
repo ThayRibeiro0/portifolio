@@ -1,108 +1,35 @@
-.boxao {
-    display: block;
-    width: 70%;
-    margin: auto;
-}
-
 .box3 {
+    text-align: left;
     box-sizing: border-box;
-    padding: 30px 70px;
+    padding: 25px 30px;
     width: 100%;
     border-style: solid;
+    padding: 30px;
     border-width: 1px;
     border-color: grey;
 }
 
 .boxinho {
     display: flex;
+    margin-top: -40px;
+}
+
+.ml {
+    margin-left: 90px; 
 }
 
 ul {
     list-style-type:circle;
 }
 
-.pop {
+.titulos {
     background-color: grey;
     border-radius: 15px;
     height: 20px;
-}
-
-.test {
     width: 40%;
-    margin: auto;
+    margin: auto;  
 }
 
 .firstcontent {
-    margin: auto;
     width: 50%;
-    padding: 3px;
-}
-
-.pop1 {
-    height: 20px;
-    width: 20%;
-    margin-top: 30px;    
-}
-
-.pop2 {
-    display: block;
-    height: 20px;
-    width: 60%;
-    margin-top: 30px;
-}
-
-.pop3 {
-    display: block;
-    height: 20px;
-    width: 70%;
-    margin-top: 30px;
-}
-
-.pop4 {
-    display: block;
-    height: 20px;
-    width: 40%;
-    margin-top: 30px;
-}
-
-.pop5 {
-    display: block;
-    height: 20px;
-    width: 90%;
-    margin-top: 30px;
-}
-
-.pop6 {
-    display: block;
-    height: 20px;
-    width: 40%;
-    margin-top: 30px;
-}
-
-.pop7 {
-    display: block;
-    height: 20px;
-    width: 40%;
-    margin-top: 30px;
-}
-
-.pop8 {
-    display: block;
-    height: 20px;
-    width: 70%;
-    margin-top: 30px;
-}
-
-.pop9 {
-    display: block;
-    height: 20px;
-    width: 70%;
-    margin-top: 30px;
-}
-
-.pop10 {
-    display: block;
-    height: 20px;
-    width: 70%;
-    margin-top: 30px;
 }
